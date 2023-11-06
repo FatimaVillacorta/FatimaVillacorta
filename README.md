@@ -1,8 +1,6 @@
 *Hi, I’m @FatimaVillacorta :)*
 
-*I'm at @UNSAAC university studying statistics and mathematics* 🏫🤖.
-
-*I'm interested in learning more about data science.*
+*I'm at @UNSAAC university studying statistics and mathematics and I'm interested in learning more about data science.*
 
 *To know more about me you can see my LinkedIn profile.*
 
